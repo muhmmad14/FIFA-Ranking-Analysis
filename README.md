@@ -20,3 +20,5 @@ Files:
 - fifa_ranking.csv -> Dataset
 - results.csv -> Dataset
 - FIFA_Ranking_Project.ipynb -> Jupyter Notebook file
+
+Medium Blog: https://medium.com/@muhmmad.almutlaq/does-fifa-ranking-reflects-the-reality-1cfdff05dd50
